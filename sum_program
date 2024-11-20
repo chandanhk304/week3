@@ -1,0 +1,6 @@
+a=10
+b=5
+def sum(int a,int b)
+  s=a+b
+  print(s)
+sum(a,b)
